@@ -73,3 +73,23 @@ a:active{
     color:goldenrod;
     text-decoration: underline;
 }
+
+.hobby-list{
+    float: left;
+    width: 35%;
+    border-radius: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 3px 10px rgba(241, 5, 5, 0.767);
+    }
+
+    .fun-list{
+        float: right;
+        width: 35%;
+        border-radius: 20px;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 10px;
+        box-shadow: 0 3px 10px rgba(241, 5, 5, 0.767);
+        }
