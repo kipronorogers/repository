@@ -1,0 +1,8 @@
+:root{
+    background-color: rgba(163, 128, 31, 0.87);
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;  
+}
