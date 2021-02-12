@@ -12,8 +12,9 @@ div#menubar1{
 
 div#menubar1> a{
     font-family:Aerial, Helvetica, sans-serif;
-    font-size: 17px;
-    background: #333;
+    font-size: 15px;
+    background: rgb(117, 14, 14);
+    
     padding: 12px 24px;
     color: #999;
     margin-right: 10px;
@@ -34,16 +35,41 @@ div#menubar1> a:hover{
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
+    box-shadow: 0 3px 10px rgba(241, 5, 5, 0.767);
     }
 
 .Projects{
     float: right;
     width:35%;
-    padding-top: 300px;
+    padding-top: 250px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
 }
 
 .h1, h2{
     color: darkred;
 }
 
+.footer{
+    padding:30px;
+    margin:0px 10px;  
+    text-align: center;
+    align-content: center;
+    padding-top: 500px;
+    
+   }
 
+a{
+    color:chocolate;
+    text-decoration:none;
+}
+a:visited{
+    color:green;
+}
+a:hover{
+    color:red;
+    text-decoration:underline;
+}
+a:active{
+    color:goldenrod;
+    text-decoration: underline;
+}
