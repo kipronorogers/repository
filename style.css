@@ -1,8 +1,22 @@
 :root{
-    background-color: rgba(163, 128, 31, 0.87);
+    background-color: rgba(216, 214, 207, 0.87);
+    background-image: url("bg.jpg");
 }
 *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;  
+}
+
+body {
+    font-family: sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: #333;
 }
