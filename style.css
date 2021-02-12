@@ -3,6 +3,7 @@
     padding:10px;
     margin:0px 10px;
     text-align: center;
+    color: darkred;
 }
 
 div#menubar1{
@@ -27,9 +28,22 @@ div#menubar1> a:hover{
     }
 
 .Brief{
-     width: 40%;
     float: left;
+    width: 35%;
     border-radius: 20px;
     padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
     }
+
+.Projects{
+    float: right;
+    width:35%;
+    padding-top: 300px;
+}
+
+.h1, h2{
+    color: darkred;
+}
+
 
