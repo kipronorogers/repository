@@ -24,4 +24,4 @@ gh-pages site:  https://kipronorogers.github.io/repository/
 
 copyrights and license information:
 
-copyright: copyright$kipronorogers@gmail.com
+copyright: copyright$kipronorogers@gmail.com 2021
