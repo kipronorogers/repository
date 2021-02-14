@@ -1,7 +1,16 @@
 Project Name:       Repository
 Author:             Rogers Kiprono Ruto
 
-Description:
+WHAT I LEARNT:
+.Manipulating CSS and HTML code to a desired product.
+.How to insert an image and wrap a text around it,
+.How to link several pages together flawlessly without errors.
+.Styling the code with CSS.
+.Creating columns.
+.Adding external links to the pages for more information.
+.Inserting a background image and setting a theme.
+
+DESCRIPTION:
 
 This is a web-page based portfolio showcasing the developer's background history, education, why he has decided to venture into programming, projects he has done and also the languages the programer is profilic in.
 
