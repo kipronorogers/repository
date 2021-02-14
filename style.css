@@ -4,6 +4,7 @@
     margin:0px 10px;
     text-align: center;
     color: darkred;
+    background-color: rgb(199, 17, 17);
 }
 
 div#menubar1{
@@ -30,37 +31,63 @@ div#menubar1> a:hover{
 
 .Brief{
     float: left;
-    width: 35%;
+    width: 30%;
     border-radius: 20px;
     padding: 10px;
-    border-radius: 10px;
     margin: 10px;
     box-shadow: 0 3px 10px rgba(241, 5, 5, 0.767);
     }
 
+div#img{
+        position: relative;
+        float: left;
+        margin right: 10px;
+    }
+
+.textwrap{
+        float: right;
+        margin: 10px;
+}
+    
+.profile_pic{
+    float: left;
+}
+
 .Projects{
     float: right;
-    width:35%;
-    padding-top: 250px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    width:33%;
+    padding-top: 10px;
+    box-shadow: 0 3px 10px rgba(241, 5, 5, 0.767);
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+.Portfolio{
+    float: right;
+    width:33%;
+    padding-top: 10px;
+    box-shadow: black;
+    padding-right: 20px;
+    border-radius: 30px;
 }
 
 .h1, h2{
     color: darkred;
-}
+    }
 
 .footer{
-    padding:30px;
+    position: fixed;
+    padding:10px;
     margin:0px 10px;  
     text-align: center;
     align-content: center;
     padding-top: 500px;
-    
    }
 
 a{
-    color:chocolate;
+    color:rgb(75, 233, 13);
     text-decoration:none;
+    text-align: center;
 }
 a:visited{
     color:green;
@@ -84,7 +111,7 @@ a:active{
     box-shadow: 0 3px 10px rgba(241, 5, 5, 0.767);
     }
 
-    .fun-list{
+.fun-list{
         float: right;
         width: 35%;
         border-radius: 20px;
